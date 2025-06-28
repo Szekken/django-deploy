@@ -1,1 +1,1 @@
-# django-deploy
+# mi-proyecto-django
